@@ -7,4 +7,7 @@ I might work on project Euler programs after I'm out of interesting ones from pr
 
 Eventually I'd like to create a launcher for the different programs, but that's not for sure. 
 
-Maybe some Bash. 
+So far the ones that are actually kind of fun to play are: 
+
+Guess My Number
+
